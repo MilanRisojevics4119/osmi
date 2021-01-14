@@ -1,0 +1,1 @@
+Napravio sam bazu podataka ,login fajl ,korisnik.php fajl i stranicu za registraciju,postavio parametre za registraciona polja i parametre za prikazivanje gresaka. Problem imam sa wordom pa sam morao ovde.
